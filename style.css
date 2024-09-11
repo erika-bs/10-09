@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+section {
+    background-color: gainsboro;
+    width: 400px;
+    padding: 20px;
+    box-shadow: 10px 10px lightblue;
+    font-family: "Noto Serif", serif;
+}    
